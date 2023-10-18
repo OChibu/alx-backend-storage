@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
-'''Task 15's module.
-'''
+"""MongoDB Operations with Python using pymongo"""
 from pymongo import MongoClient
 
 
